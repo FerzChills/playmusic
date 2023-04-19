@@ -5,4 +5,4 @@
     $apt upgrade
     $apt install python
     cd playmusic
-    python3 playmusic.py
+    python3 music.py
